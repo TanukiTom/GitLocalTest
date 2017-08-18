@@ -1,3 +1,5 @@
 Here is some text.
 
 Adding an edit.
+
+This file should only be in second branch.
